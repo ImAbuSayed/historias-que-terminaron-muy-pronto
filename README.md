@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-que-terminaron-muy-pronto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Historias que terminaron muy pronto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-que-terminaron-muy-pronto/) |
+| **Get License** | [Music Rights & Licensing for Historias que terminaron muy pronto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-que-terminaron-muy-pronto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `134c4c85a8a2a0968ebcf9169b80b9da181c92717433d23e5d36fbbd592814e1` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

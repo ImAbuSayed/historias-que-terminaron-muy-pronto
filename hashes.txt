@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Historias que terminaron muy pronto
+
+This log tracks the cryptographic history and versioning for the song **Historias que terminaron muy pronto** (historias-que-terminaron-muy-pronto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:37:46.698705 | `v1` | `134c4c85a8a2a0968ebcf9169b80b9da181c92717433d23e5d36fbbd592814e1` | `201666bb5b416213bef9fa07387d054820c6e3aaddc64fb3421632692aceb2d3` | `2026-06-15_historias-que-terminaron-muy-pronto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
