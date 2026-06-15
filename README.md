@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-que-terminaron-muy-pronto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Historias que terminaron muy pronto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-que-terminaron-muy-pronto/) |
+| **Get License** | [Obtain a Music License for Historias que terminaron muy pronto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-que-terminaron-muy-pronto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> En medio de la pista, sabes bien lo que te digo
+> Una copa, dos miradas, no necesitamos más
+> La historia es nuestra, mami, y acaba de empezar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
